@@ -112,6 +112,9 @@ Established relationships between the datasets using **Power BI Model View**.
 
 Verified both relationships using **Manage Relationships** to ensure they were active and correctly configured for accurate analysis and reporting.
 
+<img width="1568" height="519" alt="image" src="https://github.com/user-attachments/assets/05fd1137-e76c-425a-891a-dc5aca80f778" />
+
+
 ---
 
 ## 📊 Project Outcome
