@@ -115,7 +115,8 @@ Verified both relationships using **Manage Relationships** to ensure they were a
 
 ---
 
-11. Repository
+Repository
+
 E-Commerce-Sales-Data-Preparation-and-Transformation-using-Power-Query
 │
 ├── Source_Files
@@ -124,13 +125,14 @@ E-Commerce-Sales-Data-Preparation-and-Transformation-using-Power-Query
 │   └── Sales Target.csv
 │
 ├── Transformed_Files
-│   ├── Worked_sheets.xlsx
+│   └── Worked_Sheets.xlsx
 │
 ├── Power_BI
 │   └── E-Commerce-Sales-Dashboard.pbix
 │
 ├── Report
-│   ├── Brief Explanation.pdf
+│   └── Brief_Explanation.pdf
+│
 └── README.md
 
 ---
