@@ -2,9 +2,7 @@
 
 ## 📌 Project Overview
 
-This project was completed as part of the **Data Analytics (DA) – Module 2** course. The objective was to prepare, clean, transform, and model an E-Commerce sales dataset using **Power Query** and **Power BI**.
-
-The project focuses on data preparation techniques such as importing datasets, transforming data, creating calculated columns, merging tables, handling missing values and duplicates, sorting, filtering, performing aggregations, and establishing relationships between tables for accurate business analysis and reporting.
+I have developed an end-to-end data analytics solution using Power Query and Power BI, covering data import, cleaning, transformation, data modeling, DAX calculations, and interactive dashboard development. The solution transforms raw data into meaningful business insights through effective visualization and reporting, supporting data-driven decision-making.
 
 ---
 
