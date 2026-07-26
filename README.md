@@ -123,6 +123,11 @@ The project resulted in a clean, structured, and analysis-ready data model by ap
 
 ---
 
-## 👤 Author
+👩‍💻 Author
+Maathangi
 
-**Maathangi**
+Data Analyst | Microsoft Excel | SQL | Power BI | Python
+
+🔗 GitHub: https://github.com/Maathangi1412
+
+🔗 LinkedIn: www.linkedin.com/in/maathangi-p-560266333
