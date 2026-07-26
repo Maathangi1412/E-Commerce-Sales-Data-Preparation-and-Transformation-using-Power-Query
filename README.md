@@ -115,6 +115,26 @@ Verified both relationships using **Manage Relationships** to ensure they were a
 
 ---
 
+11. Repository
+E-Commerce-Sales-Data-Preparation-and-Transformation-using-Power-Query
+│
+├── Source_Files
+│   ├── List of Orders.csv
+│   ├── Order Details.csv
+│   └── Sales Target.csv
+│
+├── Transformed_Files
+│   ├── Worked_sheets.xlsx
+│
+├── Power_BI
+│   └── E-Commerce-Sales-Dashboard.pbix
+│
+├── Report
+│   ├── Brief Explanation.pdf
+└── README.md
+
+---
+
 ## 📊 Project Outcome
 
 The project resulted in a clean, structured, and analysis-ready data model by applying data preparation, transformation, and modeling techniques in Power BI. The datasets were successfully cleaned, merged, aggregated, and connected through active relationships, enabling accurate analysis, DAX calculations, and interactive business reporting.
